@@ -7,6 +7,8 @@ Pontos de interesse de uma localização utilizando Java, Spring Boot e JPA, par
 
 Você manda na URL os pontos x e y fixos e o valor de distância máxima para encontrar os lugares mais próximos.
 
+Deafio proposto em: https://github.com/backend-br/desafios/blob/master/points-of-interest/PROBLEM.md
+
 ```
   Exemplo: http://localhost:8080/20&10&10
   (x), (y) e (distância máxima)
